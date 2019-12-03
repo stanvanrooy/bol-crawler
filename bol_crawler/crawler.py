@@ -1,7 +1,7 @@
 from scrapy.crawler import CrawlerProcess
 from threading import Thread
-from bolcom_crawler.spiders.category import CategorySpider
-from bolcom_crawler.spiders.product import ProductSpider
+from bol_crawler.spiders.category import CategorySpider
+from bol_crawler.spiders.product import ProductSpider
 from uuid import uuid4
 import logging
 
