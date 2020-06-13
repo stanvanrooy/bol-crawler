@@ -1,5 +1,5 @@
 # bolcom_crawler
-This is a really simple crawler that makes use of Scrapy to crawl [bol.com](https://bol.com). 
+This is a crawler that makes use of Scrapy to crawl [bol.com](https://bol.com). It can be downloaded as a Python package from PyPi. 
 
 ## Usage
 The `Crawler` instance has two functions you can use, `crawl_products` and `crawl_category`. See an example below.
