@@ -17,7 +17,7 @@ products = crawler.crawl_products(
 # to crawl a category
 products = crawler.crawl_category(
     [
-        'https://www.bol.com/nl/l/gaming-toetsenborden/N/18214/', 0  # the 0 value is how often you want to go to the next page. 0 is just crawling the first page
+        'https://www.bol.com/nl/l/gaming-toetsenborden/N/18214/', 0  # the 0 value is how often you want to paginate. 0 is just crawling the first page
     ]
 )
 ````
