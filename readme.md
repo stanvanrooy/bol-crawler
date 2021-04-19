@@ -1,4 +1,7 @@
 # bolcom_crawler
+[![Downloads](https://pepy.tech/badge/bol-crawler)](https://pepy.tech/project/bol-crawler)
+[![PyPI license](https://img.shields.io/pypi/l/instauto)](https://pypi.python.org/project/instauto/)
+
 This is a crawler that makes use of Scrapy to crawl [bol.com](https://bol.com). It can be downloaded as a Python package from PyPi. 
 
 ## Usage
